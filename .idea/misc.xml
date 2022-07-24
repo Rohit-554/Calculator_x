@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/drawable-v31/rounded_corners.xml" value="0.169" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/drawable/circularbcgnd.xml" value="0.126" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/drawable/heroicons_backspace_circle.xml" value="0.122" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/drawable/ic_baseline_arrow_circle_left_24.xml" value="0.1" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/drawable/rounded_corners.xml" value="0.126" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/layout-v31/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Android_projects/Calculator/app/src/main/res/layout/xxx.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
